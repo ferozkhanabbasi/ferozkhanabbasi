@@ -1,6 +1,4 @@
-# 👋 Hi there, I’m Feroz Khan
-
-A highly experienced business and technology strategist with a proven track record of leading research, development, and demonstration programmes across startups and high-tech companies. I'm the **Founder & CEO of FICIALI**, and an accomplished **Computer Scientist** with 5+ years of real-world experience in:
+I am Feroz Khan as an AI Engineer, I thrive on solving complex problems, building scalable AI systems, and collaborating across disciplines to push the boundaries of innovation. Over the past 5+ years, I've worked with clients and teams globally, applying my expertise in diverse domains — from fintech to healthcare and beyond. A highly experienced business and technology strategist with a proven track record of leading research, development, and demonstration programmes across startups and high-tech companies. I'm the **Founder & CEO of FICIALI**, and an accomplished **Computer Scientist** with 5+ years of real-world experience in:
 
 - 🔬 Artificial Intelligence  
 - 🤖 Machine Learning  
@@ -9,37 +7,6 @@ A highly experienced business and technology strategist with a proven track reco
 - 📊 Data Science  
 
 ---
-
-## 🧠 About Me
-
-As an AI Engineer, I thrive on solving complex problems, building scalable AI systems, and collaborating across disciplines to push the boundaries of innovation. Over the past 5+ years, I've worked with clients and teams globally, applying my expertise in diverse domains — from fintech to healthcare and beyond.
-
-
-
-## 🏢 Current Role
-
-**Senior Data Scientist @ FICIALI**  
-📍 March 2020 – Present  
-- Leading a team of 10+ AI engineers and developers  
-- Achieved 200% revenue growth over 2 years  
-- Driving product development in AI-first systems  
-
-**Chief Data Science Officer @ Nova Wallet**  
-📍 Sept 2021 – Aug 2022  
-- Led the development of AI models for financial data analysis  
-- Automated blockchain explorer insights & reporting  
-- Delivered predictive analytics for digital assets
-
----
-
-## 📚 Education
-
-**BS in Computer Science**  
-FAST-National University of Computer & Emerging Sciences  
-📍 Karachi, Pakistan | 08/2016 – 01/2021  
-
----
-
 ### 🛠 Tech Stack
 #### 🖥️ Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
@@ -110,6 +77,32 @@ FAST-National University of Computer & Emerging Sciences
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown)
+
+
+--
+
+
+## 🏢 Current Role
+
+**Senior Data Scientist @ FICIALI**  
+📍 March 2020 – Present  
+- Leading a team of 10+ AI engineers and developers  
+- Achieved 200% revenue growth over 2 years  
+- Driving product development in AI-first systems  
+
+**Chief Data Science Officer @ Nova Wallet**  
+📍 Sept 2021 – Aug 2022  
+- Led the development of AI models for financial data analysis  
+- Automated blockchain explorer insights & reporting  
+- Delivered predictive analytics for digital assets
+
+---
+
+## 📚 Education
+
+**BS in Computer Science**  
+FAST-National University of Computer & Emerging Sciences  
+📍 Karachi, Pakistan | 08/2016 – 01/2021  
 
 
 ---
